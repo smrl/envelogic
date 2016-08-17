@@ -1,0 +1,11 @@
+envelope auto-timed with attack/release/sustain
+envelope sustain while high with release - adjustable attack time?
+looping with sync (logic state change) / gated
+resetting?
+decay with manual time setting
+triangle or inc/dec (sustaining) with manual time setting
+
+apply hysteresis on modes to improve holding?
+
+key ref 1 2 3 X 4
+GND, VREFBOT, VREFTOP
